@@ -54,6 +54,7 @@ Each project folder contains:
 | Day | Project Name           | Concepts Used            |
 | --: | ---------------------- | ------------------------ |
 |  01 | Calculator             | Input, Output, Operators |
+|  02 | Number Guessing Game   | Random, Input            |
 
 
 *(List will be updated daily)*
@@ -94,7 +95,7 @@ python main.py
 ## 🤝 Connect With Me
 
 * **GitHub:** [thevishaal](https://github.com/thevishaal)
-* **LinkedIn:** [thevishaal](www.linkedin.com/in/thevishaal)
+* **LinkedIn:** [thevishaal](https://linkedin.com/in/thevishaal)
 
 ---
 
