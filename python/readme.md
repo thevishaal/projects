@@ -56,6 +56,7 @@ Each project folder contains:
 |  01 | Calculator             | Input, Output, Operators |
 |  02 | Number Guessing Game   | Random, Input            |
 |  03 | Password Strength Validator | isdigit(), islower(), isupper() |
+|  04 | Rock Paper Scissors Game | Random, Dictionaries |
 
 
 *(List will be updated daily)*
