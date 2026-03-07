@@ -57,6 +57,7 @@ Each project folder contains:
 |  02 | Number Guessing Game   | Random, Input            |
 |  03 | Password Strength Validator | isdigit(), islower(), isupper() |
 |  04 | Rock Paper Scissors Game | Random, Dictionaries |
+|  05 | Student Management System | Class and Objects |
 
 
 *(List will be updated daily)*
