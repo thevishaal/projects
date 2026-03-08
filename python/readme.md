@@ -58,6 +58,7 @@ Each project folder contains:
 |  03 | Password Strength Validator | isdigit(), islower(), isupper() |
 |  04 | Rock Paper Scissors Game | Random, Dictionaries |
 |  05 | Student Management System | Class and Objects |
+|  06 | Bank System | Encapsulation, Encapsulation|
 
 
 *(List will be updated daily)*
